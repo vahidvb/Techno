@@ -1,5 +1,6 @@
+@import url('https://fonts.googleapis.com/css2?family=Titillium+Web:wght@300;700&display=swap');
 * {
-    font-family: 'Raleway', sans-serif;
+    font-family: 'Titillium Web', sans-serif;
     position: relative;
     box-sizing: border-box;
     outline: none;
@@ -765,9 +766,7 @@ img {
 
 
 /*start section our-customer*/
-.div-title-section .hr-section{
-    right:45%;
-}
+.div-title-section .hr-section{display: inline-block;}
 .owl-customer img{
     width: 395px;
     height: 620px;
