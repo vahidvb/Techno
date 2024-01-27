@@ -206,7 +206,7 @@ img {
         left: 0;
     }
     .header-nav {
-        padding-top: 0;
+        padding-top: 18px;
     }
 }
 
@@ -266,7 +266,7 @@ img {
     padding: 0;
     width: 30px;
     height: 4px;
-    background-color: black;
+    background-color: white;
     display: block;
     border-radius: 4px;
     transition: all 0.4s ease-in-out;
@@ -961,7 +961,7 @@ section .owl-dots button.active{
 }
 @media (max-width: 800px) {
     .box-number{
-        border-left:unset;
+        border-right: unset;
     }
 }
 /*end style section contact*/
@@ -1070,7 +1070,7 @@ section .owl-dots button.active{
 /*start style newsletter*/
 .newsletter{
     background: #0c5adb;
-    padding: 50px;
+    padding: 10px;
 }
 .title-newsletter{
     color:white;
