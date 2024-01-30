@@ -1,3 +1,3 @@
-# Healthy HTML Template
+# Techno HTML Template
 
 HTML template designed with HTML, CSS, Bootstrap, Javascript and JQuery
